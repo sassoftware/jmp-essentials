@@ -1,0 +1,1 @@
+Here you will find the datasets referenced in *JMP Essentials: An Illustrated Guide for New Users, Third Edition* by Curt Hinrichs, Chuck Boiler, and Susan Walsh. For any questions or comments on these datasets, please email saspress@sas.com.
