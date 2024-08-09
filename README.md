@@ -6,8 +6,7 @@ This repository contains the example data for the book *JMP<sup>Ⓡ</sup> Essent
 
 <a href="http://www.sas.com/store/prodBK_73047_en.html"><img src='Cover.jpg'  height="390" width="300" align= 'right'/></a>
 
-<a href="http://www.sas.com/store/prodBK_73047_en.html"> <img src="https://img.shields.io/badge/Buy%20Now-SAS%20Book%20Store-blue.svg" alt="SAS Book Store">
-  </a>
+<a href="http://www.sas.com/store/prodBK_73047_en.html"> <img src="https://img.shields.io/badge/Buy%20Now-SAS%20Book%20Store-blue.svg" alt="SAS Book Store"></a>
 
 ## Description
 <b><p>Grasp the essentials of JMP to generate rapid results.</b></p>
@@ -27,8 +26,7 @@ This repository contains the example data for the book *JMP<sup>Ⓡ</sup> Essent
 
 *About the Authors*: <a href="https://www.sas.com/sas/books/authors/curt-hinrichs.html">Curt Hinrichs</a>, <a href="https://www.sas.com/sas/books/authors/chuck-boiler.html">Chuck Boiler</a>, and <a href="http://support.sas.com/walsh">Susan Walsh</a><p>
 
-<a href="http://www.sas.com/store/prodBK_73047_en.html"> <img src="https://img.shields.io/badge/Buy%20Now-SAS%20Book%20Store-blue.svg" alt="SAS Book Store">
-  </a>
+<a href="http://www.sas.com/store/prodBK_73047_en.html"> <img src="https://img.shields.io/badge/Buy%20Now-SAS%20Book%20Store-blue.svg" alt="SAS Book Store"></a>
 
 ## License
 
